@@ -1,4 +1,4 @@
-# DCFrade
+# DCFrame
 You can change the background of the Discord to any image you like (Dark mode recommend)
 
 ## Compatibility
