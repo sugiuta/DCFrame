@@ -9,7 +9,7 @@ iPhone running iOS13 or later
   - Depends on [libGCUniversal](https://github.com/MrGcGamer/LibGcUniversalDocumentation)
 
 ## License
-[MIT](https://github.com/sugiuta/DCFrame/blob/main/LICENSE)
+[MIT](https://github.com/sugiuta/dcframe/blob/master/LICENSE.md)
 
 ## Credits
   - Background Image Hook
